@@ -4,17 +4,17 @@ This application allows users to store, retrieve, update, and manage records rel
 
 Key Features
 
-📌 Customer management (add, update, view customer details)
+ Customer management (add, update, view customer details)
 
-📦 Product management (inventory tracking)
+ Product management (inventory tracking)
 
-💰 Sales recording and sales item tracking
+ Sales recording and sales item tracking
 
-🗄 Database integration for secure data storage
+ Database integration for secure data storage
 
-🧩 Modular code structure (separate files for customers, products, sales, etc.)
+ Modular code structure (separate files for customers, products, sales, etc.)
 
-⚡ Efficient data handling using Python and SQL
+ Efficient data handling using Python and SQL
 
 Tech Stack Used
 
