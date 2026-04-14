@@ -58,13 +58,11 @@ Developed a Smart Inventory Management System that:
 
 ---
 
-## 📊 Visualization
 
-(Add your dashboard / UI screenshots here)
 
-Example:
 
-![Inventory Dashboard](inventory_dashboard.png)
+
+
 
 ---
 
